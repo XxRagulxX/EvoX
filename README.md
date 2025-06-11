@@ -1,2 +1,4 @@
 # EvoX
 OTA-UPDATE 2025
+
+10.7
